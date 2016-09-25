@@ -16,6 +16,7 @@
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
     <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="accent">#FFD740</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
     <color name="background_floating_material_dark">#ff424242</color>
@@ -38,6 +39,7 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="divider">#BDBDBD</color>
     <color name="error_color">#FFDD2C00</color>
     <color name="fab_stroke_end_inner_color">#0A000000</color>
     <color name="fab_stroke_end_outer_color">#0F000000</color>
@@ -47,6 +49,7 @@
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
+    <color name="icons">#FFFFFF</color>
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
     <color name="ltgray">#ffe0e0e0</color>
@@ -56,16 +59,21 @@
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
     <color name="photo_placeholder">#ccc</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
+    <color name="primary_light">#C5CAE9</color>
     <color name="primary_material_dark">#ff212121</color>
     <color name="primary_material_light">#ffefefef</color>
+    <color name="primary_text">#212121</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="ripple_material_dark">#4dffffff</color>
     <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text">#757575</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
@@ -274,6 +282,7 @@
     <string name="action_share">Share</string>
     <string name="app_name">XYZ Reader</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="loremipsum">"Paroxysm of global economics &lt;a href='http://www.google.com'>Google Search&lt;/a> event take root and flourish, realm of the galaxies take root and flourish light years, circumnavigated Tunguska event Vangelis. Realm of the galaxies as a patch of light extraplanetary?&lt;br>&lt;br>The carbon in our apple pies hundreds of thousands of brilliant syntheses cosmic ocean Hypatia explorations across the centuries take root and flourish muse about with pretty stories for which there's little good evidence. Tunguska event birth billions upon billions venture tesseract billions upon billions! Muse about dream of the mind's eye! Radio telescope. The only home we've ever known with pretty stories for which there's little good evidence! Hydrogen atoms cosmic fugue brain is the seed of intelligence the only home we've ever known? Inconspicuous motes of rock and gas of brilliant syntheses.&lt;br>&lt;br>Network of wormholes across the centuries Jean-Francois Champollion hearts of the stars? Vastness is bearable only through love, a still more glorious dawn awaits worldlets the carbon in our apple pies worldlets citizens of distant epochs corpus callosum quasar ship of the imagination. Colonies something incredible is waiting to be known from which we spring billions upon billions, paroxysm of global death with pretty stories for which there's little good evidence, intelligent beings astonishment.&lt;br>&lt;br>Brain is the seed of intelligence, billions upon billions, corpus callosum trillion stirred by starlight consciousness cosmic fugue dispassionate extraterrestrial observer.&lt;br>&lt;br>Bits of moving fluff. Muse about Apollonius of Perga worldlets the only home we've ever known dispassionate extraterrestrial observer with pretty stories for which there's little good evidence venture at the edge of forever, laws of physics muse about.&lt;br>&lt;br>Photos courtesy of &lt;a href='https://unsplash.com/'>Unsplash.com&lt;/a>"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="up">Up</string>
     <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
@@ -281,6 +290,23 @@
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
+    <style name="AppTheme" parent="AppTheme.Base">
+    </style>
+    <style name="AppTheme.Base" parent="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Main theme colors -->
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+
+
+    </style>
+    <style name="AppTheme.Detail" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
         <item name="listLayout">@layout/abc_select_dialog_material</item>
@@ -1466,12 +1492,6 @@
     <style name="Theme.AppCompat.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-    </style>
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
-    </style>
-    <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>

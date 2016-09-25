@@ -136,20 +136,20 @@
         "source": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_share_white_24dp.png",
         "source": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+        "merged": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\adbello\\AndroidStudioProjects\\Udacity Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
