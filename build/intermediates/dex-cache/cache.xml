@@ -37,10 +37,17 @@
         <dex dex="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_ba9d6a128a8a7cd942846d1c6356ece9a320ca51\classes.dex" />
     </item>
     <item
+        jar="G:\C\Pop\Dev\android-sdk_r24.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_7110823bcd521fab1b5dbe00ce10fb00884b1839\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="0f98958d1c34709f07650deaebf95d3740a65a54">
+        sha1="6e3c7eb4332e5e7b46a66d30990c1b14a8c5e317">
         <dex dex="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_134945c06624360021dea4d357315bad6e9d2aa5\classes.dex" />
     </item>
     <item
@@ -89,7 +96,7 @@
         jar="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="21cd92fd3e865a63997999ab2a00924b9e30e062">
+        sha1="bf6b71233d8c434be95280905b0454bec289d242">
         <dex dex="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_70a83b584f1cd333ad46adba66648985aeabbe00\classes.dex" />
     </item>
     <item
@@ -98,13 +105,6 @@
         revision="22.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_9c5b4494841dba3251abd607deda88ec42b3a64a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\adbello\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_8f9c3653265fa09a87e80c61adaa801c32f2902c\classes.dex" />
     </item>
 
 </items>
