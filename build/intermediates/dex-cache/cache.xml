@@ -40,7 +40,7 @@
         jar="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="b85673bfe4afaeec05756d8a4ae7eed885494ac6">
+        sha1="0f98958d1c34709f07650deaebf95d3740a65a54">
         <dex dex="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_134945c06624360021dea4d357315bad6e9d2aa5\classes.dex" />
     </item>
     <item
@@ -89,7 +89,7 @@
         jar="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="ade6c0ac29a8972e628e48f27e5ecf8da8f76268">
+        sha1="21cd92fd3e865a63997999ab2a00924b9e30e062">
         <dex dex="C:\Users\adbello\AndroidStudioProjects\Udacity Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_70a83b584f1cd333ad46adba66648985aeabbe00\classes.dex" />
     </item>
     <item
